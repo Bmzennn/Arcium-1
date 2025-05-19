@@ -161,7 +161,7 @@ should look a little something like this if done correctly
 The local Validator node is not needed at this stage so feel free to turn it off with ``` CTRL + C ``` . 
 
 
-That'll be all for now. On Arcium-2 I'll go through ```arcup``` version manager Installation 
+That'll be all for now.  [see how-to-install]() ```arcup``` version manager Installation 
 
 
 
