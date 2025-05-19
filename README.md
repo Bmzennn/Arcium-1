@@ -1,4 +1,4 @@
-# Arcium-1
+# Arcium
 A simple guide to arcium. 
 I'll be documenting my journey with arcium, Its more of a personal thing but feel free to tag along. I'll be documenting everything I do. For best practicies, I recommend you have a notepad file to store data you may need later on. (At least thats what I do) .
 
