@@ -27,3 +27,5 @@ The structure is the same as in an Anchor project with two differences,
 - The `Arcium.toml` file, which contains the configuration for the Arcium tooling suite.
 
 - The `encrypted-ixs` directory. This is where we write all our code that is meant to operate on encrypted data and therefore runs in MPC. This code is written using our own Rust framework called Arcis. 
+
+

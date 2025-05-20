@@ -14,3 +14,13 @@ arcium --version # Should show the latest CLI version
 arcup version # Shows the currently installed versions of all of the Arcium components
 docker images # Should list the images for the Arx Node, Callback Server, and Postgres
 ```
+Available command for the `arcup` includes 
+<pre>
+install  Install the latest (or a specific) version of Arcium components (Arx Node, CLI, and Callback Server)
+update   Update all Arcium components (Arx Node, CLI, and Callback Server) to the latest version
+list     List all installed versions
+version  Show currently active version
+use      Switch to using a specific installed version
+delete   Delete a specific version
+help     Print this message or the help of the given subcommand(s)
+</pre>
